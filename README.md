@@ -2,7 +2,7 @@
 ## 🧑‍🚀 Sandesh !!👋
 ` "Insight Architect" – Crafting impactful stories from data and building solutions that drive decisions`
 
-I’m a data-driven professional passionate about transforming raw data into actionable insights. With expertise in Excel, SQL, Tableau, and Python (Pandas), I specialize in uncovering trends that inform strategic decisions. My background spans across industries, from optimizing recruitment strategies to analyzing road safety data. I thrive in dynamic environments where I can leverage my technical skills and problem-solving mindset to deliver impactful solutions.
+AI
 
 <hr style="border: 2px solid gray;" />
 
