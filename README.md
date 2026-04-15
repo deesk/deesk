@@ -1,5 +1,8 @@
 
 ## 🧑‍🚀 Sandesh !!👋
-Building agent-based AI Solutions 
+Azure certified AI Developer, interested in all things Python, Data and Agentic AI
 
-Certifications: AZ-900 | AI-900 | AI-102
+<p>
+  <strong>Certifications:</strong><br>
+  Azure AI Engineer Associate (AI-102) | Azure AI Fundamentals (AI-900) |  Azure Fundamentals (AZ-900)
+</p>
